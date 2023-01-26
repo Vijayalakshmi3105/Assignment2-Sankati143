@@ -13,3 +13,7 @@ I like kabaddi because of team coordination <br> Moreover kabaddi makes physical
       1. Rahul Khatik
       2. Sachin Narwal
       6. Rohit Kumar
+   - Tamil Thalaivas
+   - Jaipur Pink Panthers
+   - Telugu Titans
+   - Dabang Delhi
