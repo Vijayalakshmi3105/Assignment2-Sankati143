@@ -3,11 +3,8 @@
 ###### My favorite team sport is kabaddi
 I like kabaddi because of team coordination <br> Moreover kabaddi makes physically and mentally strong <br>
 ***Kabaddi*** is a one of the **National** sport
-
 ---
-
 ### Sports Club
-
 ---
    1. Benguluru Bulls
       1. Rahul Khatik
@@ -16,11 +13,5 @@ I like kabaddi because of team coordination <br> Moreover kabaddi makes physical
    - Tamil Thalaivas
    - Jaipur Pink Panthers
    - Telugu Titans
-   - Dabang Delhi
+   - Dabang Delhi <br>
 [AboutMe](AboutMe.md)
-
-
----
-## Tourist Countries
----
-|Country_Name
