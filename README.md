@@ -39,7 +39,7 @@ This table info is having Jermany, Japan, India and USA country details <br>
 ---
 ## HTML Stack Overflow
 
-> [How can I paste HTML markup into a Stack Overflow question field?] (https://meta.stackexchange.com/questions/110126/how-can-i-paste-html-markup-into-a-stack-overflow-question-field)
+> [How can I paste HTML markup into a Stack Overflow question field?](https://meta.stackexchange.com/questions/110126/how-can-i-paste-html-markup-into-a-stack-overflow-question-field)
 
 ```
 
@@ -55,4 +55,5 @@ This table info is having Jermany, Japan, India and USA country details <br>
 <iframe name="my-iframe" src="iframe.php"></iframe>
 
 ``` 
-[Code_Snippets_HTML] (https://css-tricks.com/snippets/html/post-data-to-an-iframe/) 
+
+[Code_Snippets_HTML](https://css-tricks.com/snippets/html/post-data-to-an-iframe/) 
