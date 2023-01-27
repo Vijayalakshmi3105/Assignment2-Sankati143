@@ -21,6 +21,10 @@ I like kabaddi because of team coordination <br> Moreover kabaddi makes physical
 ---
 ## Tourist Countries
 ---
-This table info is having Jermany, Japan, India and United State country details <br>
-| **Country_Name** | **Recommeded_Countries** | **Days_To_Spend** |
+This table info is having Jermany, Japan, India and USA country details <br>
+| **Country_Name** | **Recommeded_Places** | **Days_To_Spend** |
 | :---:            |     :---:                |  :---:            |
+| Jermany          |
+| Japan            |
+|India             |
+|USA               |
