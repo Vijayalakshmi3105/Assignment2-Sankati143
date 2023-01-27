@@ -24,7 +24,7 @@ I like kabaddi because of team coordination <br> Moreover kabaddi makes physical
 This table info is having Jermany, Japan, India and USA country details <br>
 | **Country_Name** | **Recommeded_Places** | **Days_To_Spend** |
 | :---:            |     :---:                |  :---:            |
-| Jermany          |
-| Japan            |
-|India             |
-|USA               |
+| Jermany          |Berlin's Brandenburg Gate , The Black Forest | 5 |
+| Japan            | Imperial Tokyo ,Hiroshima Peace Memorial Park| 6 |
+|India             |Kerala,Karnataka |   10 |
+|USA               |Newyork, Chikago |  3  |
